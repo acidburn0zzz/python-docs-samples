@@ -1,2 +1,2 @@
-requests==2.18.1
+requests==2.33.0
 google-auth==1.0.1
